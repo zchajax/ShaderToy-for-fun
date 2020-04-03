@@ -10,3 +10,7 @@
 [Cloud](https://www.shadertoy.com/view/3sfyDs)
 
 ![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/cloud.gif)
+
+[SkyDome](https://www.shadertoy.com/view/wslyWs)
+
+![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/skydome.gif)
