@@ -10,6 +10,10 @@
 
 ![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/simple_terrain.gif)
 
+[Ocean](https://www.shadertoy.com/view/ts2yzW)
+
+![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/ocean.gif)
+
 [Cloud](https://www.shadertoy.com/view/3sfyDs)
 
 ![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/cloud.gif)
