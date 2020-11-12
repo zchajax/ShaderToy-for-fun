@@ -24,3 +24,7 @@
 
 [Rainy Night](https://www.shadertoy.com/view/td2yRD)
 ![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/rainy.gif)
+
+[Penguin](https://www.shadertoy.com/view/tstfRN)
+
+![](https://github.com/zchajax/ShaderToy-for-fun/blob/master/Screenshots/Penguin.gif)
